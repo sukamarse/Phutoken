@@ -3,9 +3,9 @@
 pragma solidity ^0.7.4;
 
 contract Legendary {
-    string public name = "Dang Ngoc Phu Token";
-    string public symbol = "PHU";
-    uint256 public totalSupply = 1000000000000000000000000000; // 1 million tokens
+    string public name = "HUTRI Ventures Token";
+    string public symbol = "HUTRI";
+    uint256 public totalSupply = 10000000000000000000000000000; // 1 million tokens
     uint8 public decimals = 18;
     
     /**
