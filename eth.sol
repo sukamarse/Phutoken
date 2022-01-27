@@ -1,11 +1,11 @@
 // SPDX-License-Identifier: UNLISCENSED
 
-pragma solidity ^0.7.4;
+pragma solidity ^0.7.4;    // solidity ver
 
 contract Legendary {
-    string public name = "HUTRI Ventures Token";
-    string public symbol = "HUTRI";
-    uint256 public totalSupply = 10000000000000000000000000000; // 1 million tokens
+    string public name = "Name of Token";
+    string public symbol = "Symbol of Token";
+    uint256 public totalSupply = 10000000000000000000000000000; // 1 million tokens *10^18
     uint8 public decimals = 18;
     
     /**
